@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"ZPO_2020_lab2_3","l":"com.main"}]
